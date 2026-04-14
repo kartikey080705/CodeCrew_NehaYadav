@@ -1,0 +1,4 @@
+timestamp,email,password,name,experience,acres,soil,location,event
+2026-04-13 22:37:01,final_test@example.com,ultimate_pass,FinalLogger,Beginner,15.0,Clay,Pune,ACCOUNT_CREATED
+2026-04-14 16:41:50,10b.kartikeytiwariyhs@gmail.com,8104,Kartikey Tiwari,Beginner,0.0,Loamy,Mumbai/Maharashtra,ACCOUNT_CREATED
+2026-04-14 16:41:58,10b.kartikeytiwariyhs@gmail.com,8104,Kartikey Tiwari,Beginner,0.0,Loamy,Mumbai/Maharashtra,LOGIN_SUCCESS
