@@ -1,5 +1,9 @@
 # 🌱 Krishi_Kaar — Smart Agriculture Platform
 
+<div align="center">
+  <h3><a href="https://Knight6azer.github.io/Krishi_kaar/">🌐 View Live Demo (Dashboard Preview)</a></h3>
+</div>
+
 [![Platform](https://img.shields.io/badge/Platform-Agriculture--IoT-10b981.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.9+-3b82f6.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-8b5cf6.svg)]()
@@ -73,6 +77,15 @@ If you are setting up the physical hardware, use the following pin configuration
 | **HC-SR04 (Echo)** | `D4` | Digital Input | Echo Timing Pulse |
 | **Pump / LED** | `D13 / Built-in` | Digital Output | Irrigation Control |
 | **Common** | `5V / GND` | Power | VCC and Ground |
+
+---
+
+## 🖼️ Hardware Showcase
+
+<div align="center">
+  <p><b>Physical Sensor Integration (Arduino Uno + DHT11 + Soil Moisture)</b></p>
+  <img src="static/sensors_setup.jpg" width="600" alt="Hardware Setup">
+</div>
 
 ---
 
