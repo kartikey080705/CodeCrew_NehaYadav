@@ -1,0 +1,11 @@
+flask
+flask-login
+pymongo
+werkzeug
+opencv-python
+numpy
+pandas
+scikit-learn
+pyserial
+tensorflow
+requests
