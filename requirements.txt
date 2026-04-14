@@ -9,3 +9,15 @@ scikit-learn
 pyserial
 tensorflow
 requests
+flask
+flask-login
+pymongo
+werkzeug
+opencv-python
+numpy
+pandas
+scikit-learn
+pyserial
+streamlit
+tensorflow==2.10.1
+fpdf
